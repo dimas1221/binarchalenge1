@@ -1,9 +1,11 @@
 .desc {
   max-width: 400px;
+
 }
 
 .desc2 {
   max-width: 600px;
+
 }
 
 .tebel-banget {
@@ -35,13 +37,14 @@
 }
 
 .img {
-  width: 500px;
-  height: 314px;
+  width: 690px;
+  height: 394px;
   z-index: -1;
+
 }
 
 .img2 {
-  width: 75%;
+  width: 85%;
 }
 
 .link {
